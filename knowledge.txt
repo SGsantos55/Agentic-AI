@@ -1,0 +1,4 @@
+Medicine search is the process of finding accurate and reliable information about medicines using trusted medical sources, research papers, healthcare websites, and official medical guidelines. It involves identifying a medicine's name, purpose, recommended dosage, possible side effects,
+contraindications, and interactions with other drugs. Reliable medicine information helps users understand how medications work and what precautions should be taken before using them. Sources such as the World Health Organization (WHO), National Institutes of Health (NIH), 
+and official drug databases provide evidence-based information.
+Medicine search systems can also use AI and Retrieval-Augmented Generation (RAG) to retrieve relevant medical knowledge and generate informative responses while reducing misinformation.
